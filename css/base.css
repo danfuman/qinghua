@@ -26,21 +26,23 @@ a:hover{color:#bc210a;}
 
 #home{background:url("../images/home_bg.png")no-repeat;background-size: 100% 100%;}
 #home .home_content{position:relative;}
-#home .home_content div{position:absolute;width:7.95rem;overflow: hidden;}
+#home .home_content div{position:absolute;width:7.95rem;overflow: hidden;text-align: center;}
 #home .home_content div img{width:100%;}
 #home .home_content div h4{position:absolute;left:0;top:38%;text-align: center;color:#fff;font-size:14px;z-index: 10;width:100%;}
 #home .home_content div a{z-index:10;display: block;width:5rem;height:1.4rem;border:1px solid #fff;position:absolute;left:1.5rem;bottom:30%;text-align:center;line-height:1.4rem;font-size:12px;color:#fff;}
-#home .home_content div span{display: block;position:absolute;left:0;top:0;width:100px;height:100%;text-align: center}
+#home .home_content div span{display: block;position:absolute;left:0;top:0;width:100%;height:100%;text-align: center}
 #home .home_content div span img{width:100%;height:100%;}
 #home .home_content div:nth-child(1){left:40%;top:0.9rem;}
-#home .home_content div:nth-child(2){left:27%;top:8.1rem;}
-#home .home_content div:nth-child(3){left:53%;top:8.1rem;}
-#home .home_content div:nth-child(4){left:14%;top:15.3rem;}
+#home .home_content div:nth-child(2){left:26%;top:8.1rem;}
+#home .home_content div:nth-child(3){left:54%;top:8.1rem;}
+#home .home_content div:nth-child(4){left:12%;top:15.3rem;}
 #home .home_content div:nth-child(5){left:40%;top:15.3rem;}
-#home .home_content div:nth-child(6){left:66%;top:15.3rem;}
-#home .home_content div:nth-child(7){left:27%;top:22.5rem;}
-#home .home_content div:nth-child(8){left:53%;top:22.5rem;}
+#home .home_content div:nth-child(6){left:68%;top:15.3rem;}
+#home .home_content div:nth-child(7){left:26%;top:22.5rem;}
+#home .home_content div:nth-child(8){left:54%;top:22.5rem;}
 #home .home_content div:nth-child(9){left:40%;top:29.6rem;}
+
+
 
 /*** home区 End jg ***/
 
@@ -261,7 +263,7 @@ a:hover{color:#bc210a;}
 #academicism .contop .incon .incon_b{position: absolute;left:-9px;top:-100px;height: 3.5rem;}
 #academicism .contop .incon .incon_b a{color: #fff;position: relative;left: 7px;top:0px;font-size: 0.4rem;letter-spacing: 1px;text-align: center;}
 #academicism .contop .incon .incon_b a span{display:block;line-height:15px;}
-#academicism .conmid{background: url("../images/consi_02.jpg") no-repeat;height: 16.05rem;background-size: 100% 100%;}
+#academicism .conmid{background: url("../images/bg_03.png") no-repeat;height: 16.05rem;background-size: 100% 100%;}
 #academicism .conmid .incoco{position: relative;left:194px;top:156px;}
 #academicism .conmid .incoco li{float: left;margin-left: 2%;}
 #academicism .conmid .incoco li img{width: 100%;max-width: 44px;}
@@ -285,7 +287,7 @@ a:hover{color:#bc210a;}
 #learned .contop .incon .incon_b{position: absolute;left:-9px;top:-100px;height: 3.5rem;}
 #learned .contop .incon .incon_b a{color: #fff;position: relative;left: 7px;top:0px;font-size: 0.4rem;letter-spacing: 1px;text-align: center;}
 #learned .contop .incon .incon_b a span{display:block;line-height:15px;}
-#learned .conmid{background: url("../images/consi_02.jpg") no-repeat;height: 16.05rem;background-size: 100% 100%;}
+#learned .conmid{background: url("../images/bg_03.png") no-repeat;height: 16.05rem;background-size: 100% 100%;}
 #learned .conmid .incoco{position: relative;left:194px;top:156px;}
 #learned .conmid .incoco li{float: left;margin-left: 2%;}
 #learned .conmid .incoco li img{width: 100%;max-width: 44px;}
@@ -309,7 +311,7 @@ a:hover{color:#bc210a;}
 #teachers .contop .incon .incon_b{position: absolute;left:-9px;top:-100px;height: 3.5rem;}
 #teachers .contop .incon .incon_b a{color: #fff;position: relative;left: 7px;top:0px;font-size: 0.4rem;letter-spacing: 1px;text-align: center;}
 #teachers .contop .incon .incon_b a span{display:block;line-height:15px;}
-#teachers .conmid{background: url("../images/consi_02.jpg") no-repeat;height: 16.05rem;background-size: 100% 100%;}
+#teachers .conmid{background: url("../images/bg_03.png") no-repeat;height: 16.05rem;background-size: 100% 100%;}
 #teachers .conmid .incoco{position: relative;left:194px;top:156px;}
 #teachers .conmid .incoco li{float: left;margin-left: 2%;}
 #teachers .conmid .incoco li img{width: 100%;max-width: 44px;}
